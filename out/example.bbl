@@ -1,0 +1,55 @@
+\begin{thebibliography}{1}
+\providecommand{\bibauthor}[1]{#1}
+\providecommand{\bibeditor}[1]{#1}
+\providecommand{\bibtranslator}[1]{#1}
+\providecommand{\bibtitle}[1]{#1}
+\providecommand{\bibbooktitle}[1]{#1}
+\providecommand{\bibjournal}[1]{#1}
+\providecommand{\bibmark}[1]{#1}
+\providecommand{\bibcountry}[1]{#1}
+\providecommand{\bibpatentid}[1]{#1}
+\providecommand{\bibedition}[1]{#1}
+\providecommand{\biborganization}[1]{#1}
+\providecommand{\bibaddress}[1]{#1}
+\providecommand{\bibpublisher}[1]{#1}
+\providecommand{\bibinstitution}[1]{#1}
+\providecommand{\bibschool}[1]{#1}
+\providecommand{\bibvolume}[1]{#1}
+\providecommand{\bibnumber}[1]{#1}
+\providecommand{\bibversion}[1]{#1}
+\providecommand{\bibpages}[1]{#1}
+\providecommand{\bibmodifydate}[1]{#1}
+\providecommand{\bibcitedate}[1]{#1}
+\providecommand{\bibyear}[1]{#1}
+\providecommand{\bibdate}[1]{#1}
+\providecommand{\biburl}[1]{\newline\url{#1}}
+
+\bibitem{sjjg}
+\bibauthor{严蔚敏等}\@.
+  \bibbooktitle{数据结构（C语言版）}\bibmark{[M]}\@.
+  \bibaddress{[S.l.]}\thinspace{}\textnormal{:
+  }\bibpublisher{清华大学出版社}\@, \bibyear{2015}\@.
+
+\bibitem{HUSTPaperTemp}
+\bibauthor{ZXC479773533}\@.
+  \bibtitle{HUST-CS-Report-Template}\bibmark{[EB/OL]}\@. \@.
+  \newline\url{https://github.com/zxc479773533/HUST-CS-Report-Template}\@.
+
+\bibitem{Mehrabian1974An}
+\bibauthor{NYHOFF L}\@. \bibbooktitle{ADTs, Data Structures, and Problem
+  Solving with C++ Second Edition}\bibmark{[M]}\@.
+  \bibaddress{[S.l.]}\thinspace{}\textnormal{: }\bibpublisher{Calvin
+  College}\@, \bibyear{2005}\@.
+
+\bibitem{LTE2015MIP}
+\bibauthor{殷立峰}\@. \bibmark{[M]}\@.
+  \bibaddress{[S.l.]}\thinspace{}\textnormal{:
+  }\bibpublisher{清华大学出版社}\@,
+  \bibyear{2014}\thinspace{}\textnormal{: }\bibpages{192~197}\@.
+
+\bibitem{Dai2008Semantic}
+\bibauthor{严蔚敏}\@. \bibmark{[M]}\@.
+  \bibaddress{[S.l.]}\thinspace{}\textnormal{:
+  }\bibpublisher{清华大学出版社}\@, \bibyear{2015}\@.
+
+\end{thebibliography}
